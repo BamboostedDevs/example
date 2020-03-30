@@ -1,0 +1,41 @@
+{
+  "name": "bamboosted_nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node generate.js && next",
+    "build": "node generate.js && next build",
+    "start": "next start",
+    "export": "node generate.js && next build && next export",
+    "generate": "node generate.js"
+  },
+  "keywords": [
+    "nextjs",
+    "boilerplate"
+  ],
+  "author": "bamboosted team",
+  "license": "© All rights reserved.",
+  "description": "Boilerplate of NextJS by bamboosted team",
+  "dependencies": {
+    "next": "^9.3.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.0.1",
+    "unstated-next": "^1.1.0"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "next-compose-plugins": "^2.2.0",
+    "next-offline": "^5.0.0",
+    "next-progressbar": "^1.0.0",
+    "prettier": "^2.0.1"
+  },
+  "configuration": {
+    "title": "Bamboosted NextJS boilerplate",
+    "shortName": "Bamboosted",
+    "url": "https://bamboosted.com/",
+    "language": "PL",
+    "color": "#70b6f1"
+  }
+}
