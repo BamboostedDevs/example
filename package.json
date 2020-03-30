@@ -17,7 +17,9 @@
   "license": "© All rights reserved.",
   "description": "Boilerplate of NextJS by bamboosted team",
   "dependencies": {
-    "next": "^9.3.1",
+    "axios": "^0.19.2",
+    "jose": "^1.25.0",
+    "next": "^9.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -29,7 +31,7 @@
     "next-compose-plugins": "^2.2.0",
     "next-offline": "^5.0.0",
     "next-progressbar": "^1.0.0",
-    "prettier": "^2.0.1"
+    "prettier": "^2.0.2"
   },
   "configuration": {
     "title": "Bamboosted NextJS boilerplate",
