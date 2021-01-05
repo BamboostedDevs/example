@@ -17,7 +17,7 @@
   "license": "© All rights reserved.",
   "description": "Boilerplate of NextJS by bamboosted team",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jose": "^1.25.0",
     "next": "^9.3.2",
     "prop-types": "^15.7.2",
