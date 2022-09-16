@@ -18,7 +18,7 @@
   "description": "Boilerplate of NextJS by bamboosted team",
   "dependencies": {
     "axios": "^0.19.2",
-    "jose": "^1.25.0",
+    "jose": "^1.28.2",
     "next": "^9.3.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
